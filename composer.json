@@ -1,0 +1,11 @@
+{
+  "require": {
+    "doctrine/dbal": "v2.5.13",
+    "ramsey/uuid": "^3.7",
+    "nesbot/carbon": "^1.22",
+    "phpunit/phpunit": "^6.5"
+  },
+  "autoload": {
+    "psr-4": { "DoctrinePlayground\\": "src/" }
+  }
+}
